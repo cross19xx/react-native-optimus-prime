@@ -1,0 +1,8 @@
+{
+  "name": "react-native-optimus-prime",
+  "version": "0.0.1",
+  "description": "React native template on steroids. Includes ESLint, Typescript, React-navigation, Gesture Handler, etc.",
+  "repository": "git@github.com/cross19xx/react-native-optimus-prime.git",
+  "author": "Kenneth Kwakye-Gyamfi <kenneth.cross95@gmail.com>",
+  "license": "MIT"
+}
