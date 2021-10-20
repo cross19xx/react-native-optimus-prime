@@ -1,0 +1,20 @@
+{
+  "env": {
+    "jest": true
+  },
+  "root": true,
+  "extends": "@callstack",
+  "rules": {
+    "@typescript-eslint/no-unused-vars": "warn",
+    "prettier/prettier": "warn",
+    "promise/prefer-await-to-then": "off",
+    "react-native-a11y/has-valid-accessibility-ignores-invert-colors": "off",
+    "react-native/no-raw-text": "off",
+    "react-native/no-unused-styles": "warn"
+  },
+  "settings": {
+    "import/resolver": {
+      "typescript": {}
+    }
+  }
+}
